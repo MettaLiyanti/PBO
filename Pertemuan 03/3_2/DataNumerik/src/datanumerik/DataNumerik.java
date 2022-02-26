@@ -4,7 +4,7 @@ public class DataNumerik {
 
     public static void main(String[] args) {
         
-//        int x = 17;
+//        int x = 18;
 //        x = 24;
 //        x = 64-7;
 //          System.out.println("x: "+x); // x diambil dari terakhir kali di assign
