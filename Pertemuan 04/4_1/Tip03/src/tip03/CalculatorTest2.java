@@ -1,7 +1,7 @@
 
 package tip03;
 
-public class CalculatorTest {
+public class CalculatorTest2 {
     public static void main(String[] args) {
 
        /*This is what everyone owes before tax and tip:
@@ -15,7 +15,7 @@ public class CalculatorTest {
        Person 8: $30
        */
         
-       Calculator calc = new Calculator();
+       Calculator2 calc = new Calculator2();
        
        //Use the Calculator object and arguments supplied to findTotal()
        //to print the total for each person

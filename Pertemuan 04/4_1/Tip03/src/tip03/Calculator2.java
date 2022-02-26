@@ -1,7 +1,7 @@
 
 package tip03;
 
-public class Calculator {
+public class Calculator2 {
     public double tax = .05;
     public double tip = .15;
     
